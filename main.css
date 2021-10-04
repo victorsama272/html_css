@@ -1,0 +1,23 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: blue;
+   font-size: 18px;
+
+}
+
+#main-container{
+
+}
+
+header{
+   background-image: url(../html_css/img/bradcam.png);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   height: 100vh;
+   color: white;
+}
+
